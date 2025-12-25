@@ -5,6 +5,7 @@
     <ItemGroup>
 
         <ProjectReference Include="../../src/AtomUI.Theme/AtomUI.Theme.csproj"/>
+        <ProjectReference Include="../../src/AtomUI.Controls.Shared/AtomUI.Controls.Shared.csproj"/>
         <ProjectReference Include="../AtomUI.TestBase/AtomUI.TestBase.csproj"/>
     </ItemGroup>
 
